@@ -1,0 +1,6 @@
+rust_binary(
+	name = 'day1_rs',
+	srcs = [
+		'main.rs'
+	]
+)
